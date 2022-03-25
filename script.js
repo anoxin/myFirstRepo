@@ -6,4 +6,6 @@ const logged = () => {
     console.log('commits2')
 }
 
+console.log("master")
+
 // изменение
