@@ -1,6 +1,5 @@
-let snake_case = 10
-const width = 11
+const div = document.getElementById('github')
 
-snake_case = 20
-
-console.log(snake_case)
+const logged = () => {
+    console.log(div.textContent);
+}
